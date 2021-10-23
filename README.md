@@ -1,7 +1,7 @@
 # Magic-Plus-BN-Pariah-Edit
 
 This is a BN conversion for the very old and basically untouched mod Magic-Plus. If you like it, go star the original repository please. (https://github.com/Alasnuyo/Magic-Plus) I didn't do much in the way of changes,
-perhaps added the magical focus to the essence blade and essence blaster (can't remember at the moment).
+other than tried to update the explosions to not generate errors (successful, but I don't know how to make them effective).
 This mod was built off of Arcana, looks to be pre-Magiclysm days, and the contents can be somewhat all over the place. There's a new skill involved and the ability to get full Essence
 just by meditating(!), which could break the balance of Arcana something fierce. There's also some talismans (not too imbalanced), and some coherent Essence equipment (like a 
 D&D style psychoactive skin for armor) along with Essence Bullets - coherent charges of shaped Essence that need no gun.
